@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🛡️ Privacy Research Hub
 
-<!--
-**yerihaa3-dot/yerihaa3-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Protection & Privacy Compliance Research
 
-Here are some ideas to get you started:
+![Privacy](https://img.shields.io/badge/Focus-Data_Protection-blue)
+![Compliance](https://img.shields.io/badge/Area-Compliance-green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+Privacy researcher specializing in data protection frameworks, compliance methodologies, and privacy-enhancing technologies. Focused on GDPR, CCPA, and global privacy standards.
+
+## Research Areas
+- Data protection frameworks
+- Privacy compliance methodologies
+- GDPR implementation guidance
+- Privacy-enhancing technologies
+
+## Current Focus
+Developing privacy assessment tools and compliance frameworks for organizations and researchers.
